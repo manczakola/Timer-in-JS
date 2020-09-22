@@ -1,3 +1,3 @@
 ## My first timer in JavaScript
 
-### Chech this on: https://manczakola.github.io/Timer-in-JS/.
+### Check it out here: https://manczakola.github.io/Timer-in-JS/.
